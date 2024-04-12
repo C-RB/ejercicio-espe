@@ -1,0 +1,13 @@
+
+.health-container {
+    margin-bottom: 10px;
+}
+
+.health-bar {
+    height: 20px;
+    width: 100%;
+}
+
+.status {
+    margin-top: 5px;
+}
